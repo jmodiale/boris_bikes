@@ -1,0 +1,12 @@
+USER STORY
+Objects
+- Person
+- Bike
+- Docking_Station
+
+Messages
+- release_a_bike
+- is_bike_working?
+
+STACK TRACE
+- Name error
