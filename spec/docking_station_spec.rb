@@ -5,5 +5,3 @@ describe DockingStation do
         is_expected.to respond_to 'release_bike'
     end
 end
-
-#it {is_expected.to respond_to :release_bike }
